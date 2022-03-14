@@ -17,7 +17,7 @@ BOOTSTRAP
 JQUERY
 }
 ## Live Site 
-{ Available here: }
+{ Available here: }S
 ### License
- **{<a href="https://choosealicense.com/licenses/mit/">}**
+ **{<a href="https://choosealicense.com/licenses/mit/"alt="MIT LICENSE">}**
   
