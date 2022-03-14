@@ -14,7 +14,14 @@ section{
 }
 h1{
     text-align: center;
+    
 }
 p{
     text-align: center;
+}
+.centre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
