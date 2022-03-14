@@ -1,12 +1,12 @@
 
 #home{
     background-image: url(/assets/backgrounds/h_img.jpg);
-    height: 100vh;
+    height: 90vh;
     display: flex;
     align-items: center;
     justify-content: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    
 
 }
 h1{
@@ -23,5 +23,16 @@ p{
     
 }
 h2{
+    text-align: center;
+}
+#services{
+    background-image: url(/assets/backgrounds/s_image.jpg);
+    height: 100vh;
+    display: flex;
+    background-repeat: no-repeat;
+    justify-content: center;
+    
+}
+h3{
     text-align: center;
 }
